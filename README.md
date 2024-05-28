@@ -1,4 +1,4 @@
-# SimpleChat
+# Simple chat
 
 Implementacja prostego czatu. Serwer może obsługiwać wielu klientów jednocześnie. Przekazuje wiadomości od jednego do wszystkich innych połączonych klientów.
 
